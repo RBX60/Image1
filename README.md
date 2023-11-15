@@ -1,2 +1,10 @@
 # Image1
-![daughter]{https://drive.google.com/file/d/1-8HZjLmoRk8D6_rMP85cW-vmDh5V3ElR/view?usp=drivesdk}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Images</title>
+</head>
+<body>
+	<img src="//www.html.am/images/samples/4s.jpg" alt="Photo of Rob Roy Glacier">
+</body>
+</html>
